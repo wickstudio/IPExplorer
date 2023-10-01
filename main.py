@@ -22,7 +22,7 @@ def print_banner():
 
 def print_contact_info():
     print(Fore.YELLOW + "Contact Information:" + Style.RESET_ALL)
-    print("1. Website: https://https://wickdev.xyz/")
+    print("1. Website: https://wickdev.xyz/")
     print("2. GitHub: https://github.com/Wickdev077")
     print("3. Instagram: https://www.instagram.com/mik__subhi/")
 
