@@ -29,9 +29,9 @@ To use Wick Tool, follow these steps:
 
 Feel free to reach out for questions, suggestions, or collaboration opportunities.
 
-1. **Website:** [https://www.yourwebsite.com](https://wickdev.xyz/)
-2. **GitHub:** [https://github.com/yourgithub](https://github.com/Wickdev077)
-3. **Instagram:** [https://www.instagram.com/yourinstagram](https://www.instagram.com/mik__subhi/)
+1. **Website:** [https://www.wickdev.xyz](https://wickdev.xyz/)
+2. **GitHub:** [https://github.com/Wickdev077](https://github.com/Wickdev077)
+3. **Instagram:** [https://www.instagram.com/mik__subhi](https://www.instagram.com/mik__subhi/)
 
 ==============================================================================================================================
 
